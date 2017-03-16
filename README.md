@@ -14,3 +14,4 @@ TODO:
 advance color filtering and transparency in export
 implement export to ico and bmp
 implement export of big svg images
+
